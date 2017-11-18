@@ -1,0 +1,9 @@
+!.gitignore
+*.iml
+build
+.gradle
+gradle
+libs
+gradlew*
+out
+
